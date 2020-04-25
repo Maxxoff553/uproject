@@ -6,4 +6,6 @@ double a,b,sum,raz,um,del;
     cin >> a;
     cout <<"Vvedite chislo b:" ;
     cin >>b;
+    sum=a+b;
+   cout << "Summa = "<<sum<<".\n";
 }
