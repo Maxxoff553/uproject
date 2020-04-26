@@ -1,4 +1,4 @@
-#include "sdt.h"
+#include "sdt.h" // программа является учебной
 int main()
 {
 double a,b,sum,raz,um,del;
