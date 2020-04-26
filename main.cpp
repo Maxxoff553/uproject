@@ -10,4 +10,6 @@ double a,b,sum,raz,um,del;
    cout << "Summa = "<<sum<<".\n";
    raz=a-b;
     cout << "Raznica = "<<raz<<".\n";
+    del=a/b;
+    cout << "Raznica = "<<raz<<".\n";
 }
