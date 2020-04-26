@@ -8,4 +8,6 @@ double a,b,sum,raz,um,del;
     cin >>b;
     sum=a+b;
    cout << "Summa = "<<sum<<".\n";
+   raz=a-b;
+    cout << "Raznica = "<<raz<<".\n";
 }
