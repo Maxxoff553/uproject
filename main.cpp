@@ -13,5 +13,5 @@ double a,b,sum,raz,um,del;
     um=a*b;
     cout << "Umnojenie = "<<um<<".\n";
     del=a/b;
-    cout << "Raznica = "<<raz<<".\n";
+    cout << "Delenie = "<<del<<".\n";
 }
